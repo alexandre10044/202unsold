@@ -18,3 +18,4 @@ a is a constant computed from the past results
 b is a constant computed from the past results
 
 Example:
+![alt text](https://github.com/alexandre10044/202unsold/blob/master/example.png?raw=true)
